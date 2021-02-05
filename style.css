@@ -55,7 +55,7 @@ ul li::before{
      
 }
 ul li:hover::before{
-    transform:scale(1);
+    transform:scale(.9);
 }
 ul li:hover{
     color:#fff;
